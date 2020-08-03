@@ -1,0 +1,191 @@
+2020-07-29 02:41:14,217  INFO [main] SharedSD:20 - ******************************
+2020-07-29 02:41:14,221  INFO [main] SharedSD:21 - Test setup!
+2020-07-29 02:41:23,521  INFO [main] SharedSD:37 - Cleanup!
+2020-07-29 02:41:23,521  INFO [main] SharedSD:38 - Test completed!
+2020-07-29 02:41:23,521  INFO [main] SharedSD:40 - ********************************
+2020-07-29 02:43:11,161  INFO [main] SharedSD:20 - ******************************
+2020-07-29 02:43:11,165  INFO [main] SharedSD:21 - Test setup!
+2020-07-29 02:43:20,804  INFO [main] SharedSD:37 - Cleanup!
+2020-07-29 02:43:20,804  INFO [main] SharedSD:38 - Test completed!
+2020-07-29 02:43:20,805  INFO [main] SharedSD:40 - ********************************
+2020-07-29 02:56:46,650  INFO [main] SharedSD:20 - ******************************
+2020-07-29 02:56:46,653  INFO [main] SharedSD:21 - Test setup!
+2020-07-29 02:56:55,389  INFO [main] SharedSD:37 - Cleanup!
+2020-07-29 02:56:55,389  INFO [main] SharedSD:38 - Test completed!
+2020-07-29 02:56:55,389  INFO [main] SharedSD:40 - ********************************
+2020-07-29 02:58:21,402  INFO [main] SharedSD:20 - ******************************
+2020-07-29 02:58:21,406  INFO [main] SharedSD:21 - Test setup!
+2020-07-29 02:58:45,675 ERROR [main] SharedSD:32 - Test failed!
+2020-07-29 02:58:54,188  INFO [main] SharedSD:20 - ******************************
+2020-07-29 02:58:54,191  INFO [main] SharedSD:21 - Test setup!
+2020-07-29 02:59:02,018  INFO [main] SharedSD:37 - Cleanup!
+2020-07-29 02:59:02,019  INFO [main] SharedSD:38 - Test completed!
+2020-07-29 02:59:02,019  INFO [main] SharedSD:40 - ********************************
+2020-07-30 11:55:48,457  INFO [main] SharedSD:20 - ******************************
+2020-07-30 11:55:48,467  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 11:56:00,391  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 11:56:00,392  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 11:56:00,392  INFO [main] SharedSD:40 - ********************************
+2020-07-30 11:57:27,911  INFO [main] SharedSD:20 - ******************************
+2020-07-30 11:57:27,920  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 11:57:37,621  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 11:57:37,621  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 11:57:37,621  INFO [main] SharedSD:40 - ********************************
+2020-07-30 11:58:02,245  INFO [main] SharedSD:20 - ******************************
+2020-07-30 11:58:02,249  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 11:58:11,014  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 11:58:11,015  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 11:58:11,015  INFO [main] SharedSD:40 - ********************************
+2020-07-30 13:26:30,943  INFO [main] SharedSD:20 - ******************************
+2020-07-30 13:26:30,947  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 13:26:52,227 ERROR [main] SharedSD:32 - Test failed!
+2020-07-30 13:26:53,324  INFO [main] SharedSD:40 - ********************************
+2020-07-30 13:26:53,424  INFO [main] SharedSD:20 - ******************************
+2020-07-30 13:26:53,424  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 13:26:56,687 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-07-30 13:26:56,687 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-07-30 13:26:56,710 ERROR [main] SharedSD:32 - Test failed!
+2020-07-30 13:26:57,672  INFO [main] SharedSD:40 - ********************************
+2020-07-30 13:26:57,773  INFO [main] SharedSD:20 - ******************************
+2020-07-30 13:26:57,773  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 13:27:20,552  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 13:27:20,552  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 13:27:20,553  INFO [main] SharedSD:40 - ********************************
+2020-07-30 19:25:44,993  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:25:44,996  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:28:42,841  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:28:42,845  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:28:50,070  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 19:28:50,071  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 19:28:50,071  INFO [main] SharedSD:40 - ********************************
+2020-07-30 19:29:13,523  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:29:13,530  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:29:21,665  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 19:29:21,666  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 19:29:21,666  INFO [main] SharedSD:40 - ********************************
+2020-07-30 19:37:38,360  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:37:38,368  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:37:48,169  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 19:37:48,169  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 19:37:48,169  INFO [main] SharedSD:40 - ********************************
+2020-07-30 19:41:18,134  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:41:18,139  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:41:18,200 ERROR [main] SharedSD:32 - Test failed!
+2020-07-30 19:41:48,303  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:41:48,308  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:41:48,375 ERROR [main] SharedSD:32 - Test failed!
+2020-07-30 19:42:54,991  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:42:54,998  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:43:03,099  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 19:43:03,100  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 19:43:03,100  INFO [main] SharedSD:40 - ********************************
+2020-07-30 19:43:49,024  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:43:49,028  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:43:56,127  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 19:43:56,127  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 19:43:56,127  INFO [main] SharedSD:40 - ********************************
+2020-07-30 19:47:17,081  INFO [main] SharedSD:20 - ******************************
+2020-07-30 19:47:17,089  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 19:47:29,429  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 19:47:29,430  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 19:47:29,430  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:19:05,985  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:19:05,989  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:19:24,242  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:19:24,242  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:19:24,242  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:19:27,687  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:19:27,688  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:19:36,018  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:19:36,019  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:19:36,019  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:19:39,479  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:19:39,480  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:20:00,813  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:20:00,814  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:20:00,814  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:28:06,809  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:28:06,816  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:28:20,221  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:28:20,222  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:28:20,222  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:52:17,909  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:52:17,913  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:52:43,378 ERROR [main] SharedSD:32 - Test failed!
+2020-07-30 20:52:43,600  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:52:47,035  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:52:47,035  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:52:51,707  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:52:51,707  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:52:51,707  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:52:55,130  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:52:55,130  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:53:17,251  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:53:17,251  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:53:17,251  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:54:57,635  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:54:57,639  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:55:17,024 ERROR [main] SharedSD:32 - Test failed!
+2020-07-30 20:55:17,687  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:55:17,776  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:55:17,776  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:55:21,514  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:55:21,514  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:55:21,515  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:55:21,601  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:55:21,601  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:55:42,652  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:55:42,652  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:55:42,652  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:56:26,897  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:56:26,902  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:56:42,574  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:56:42,574  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:56:42,575  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:56:42,659  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:56:42,659  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:56:46,495  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 20:56:46,495  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 20:56:46,495  INFO [main] SharedSD:40 - ********************************
+2020-07-30 20:56:46,581  INFO [main] SharedSD:20 - ******************************
+2020-07-30 20:56:46,581  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 20:57:07,645 ERROR [main] SharedSD:32 - Test failed!
+2020-07-30 20:57:08,314  INFO [main] SharedSD:40 - ********************************
+2020-07-30 21:00:12,239  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:00:12,246  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 21:00:23,841  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 21:00:23,842  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 21:00:23,842  INFO [main] SharedSD:40 - ********************************
+2020-07-30 21:00:39,537  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:00:39,541  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 21:00:55,056  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 21:00:55,056  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 21:00:55,056  INFO [main] SharedSD:40 - ********************************
+2020-07-30 21:00:55,158  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:00:55,158  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 21:00:59,783  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 21:00:59,783  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 21:00:59,783  INFO [main] SharedSD:40 - ********************************
+2020-07-30 21:00:59,876  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:00:59,877  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 21:01:19,065 ERROR [main] SharedSD:32 - Test failed!
+2020-07-30 21:01:20,411  INFO [main] SharedSD:40 - ********************************
+2020-07-30 21:01:40,051  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:01:40,055  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 21:09:03,045  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:09:03,049  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 21:09:17,644  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 21:09:17,644  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 21:09:17,645  INFO [main] SharedSD:40 - ********************************
+2020-07-30 21:09:17,749  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:09:17,750  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 21:09:21,755  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 21:09:21,756  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 21:09:21,756  INFO [main] SharedSD:40 - ********************************
+2020-07-30 21:09:21,857  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:09:21,857  INFO [main] SharedSD:21 - Test setup!
+2020-07-30 21:09:43,168  INFO [main] SharedSD:37 - Cleanup!
+2020-07-30 21:09:43,169  INFO [main] SharedSD:38 - Test completed!
+2020-07-30 21:09:43,169  INFO [main] SharedSD:40 - ********************************
+2020-07-30 21:12:41,326  INFO [main] SharedSD:20 - ******************************
+2020-07-30 21:12:41,331  INFO [main] SharedSD:21 - Test setup!
