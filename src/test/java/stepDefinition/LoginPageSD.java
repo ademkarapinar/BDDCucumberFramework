@@ -15,7 +15,8 @@ public class LoginPageSD {
     private LoginPage loginPage = new LoginPage();
 
     @Given("^I am on home page$")
-    public void iAmOnHomePage(){
+    public void IamOnHomePage(){
+
         Assert.assertEquals(BasePage.get().getCurrentUrl(), "https://www.facebook.com/");
     }
 
@@ -47,7 +48,7 @@ public class LoginPageSD {
 
     @Then("^I verify that I am in invalid login page$")
     public void verifyInvalidLogin(){
-        //Assert.assertEquals(loginPage.getTextElement(), "Log Into Facebook");
+     //   Assert.assertEquals(loginPage.getTextElement(), "Log Into Facebook");
         loginPage.createAccount();
     }
 

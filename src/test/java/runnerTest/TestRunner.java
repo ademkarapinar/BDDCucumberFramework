@@ -5,7 +5,7 @@ import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 
 /**
- * @author BobIT
+ * @author Adem
  */
 
 @RunWith(Cucumber.class)
